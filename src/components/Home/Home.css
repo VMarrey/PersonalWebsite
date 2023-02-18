@@ -1,0 +1,12 @@
+.images { 
+    width:100%!important; 
+}
+.homecontainer { 
+    display:flex; 
+    flex-direction:column; 
+    min-width:100%; 
+    background-color: #06191D;
+}
+.footercomponent{ 
+    min-height: 20%;
+}

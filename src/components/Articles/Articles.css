@@ -1,0 +1,26 @@
+.articlescontainer { 
+    background-color: #1D1B26; 
+    height:58rem; 
+    width:100%; 
+    display:flex; 
+    flex-direction:row; 
+    flex-wrap: wrap; 
+    justify-content: left; 
+
+}
+
+.entirearticlescontainer { 
+    width: 100%; 
+    background-color: #1D1B26; 
+    color: white; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    
+}
+.text { 
+    margin-left:50%;
+    font-size:2rem; 
+    margin-top:2%; 
+}
+

@@ -1,0 +1,16 @@
+.cardimage { 
+    height: 25rem!important;
+    margin:25px; 
+    overflow:hidden;
+    background-color:#1D1B26;
+    color:white; 
+}
+.cardbuttonlink{ 
+    text-decoration:none; 
+    color: white; 
+
+}
+.cardbuttonlink:hover{ 
+    transition:color 0.1s ease; 
+    color: black; 
+}

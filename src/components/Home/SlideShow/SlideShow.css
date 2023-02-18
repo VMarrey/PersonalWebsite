@@ -1,0 +1,29 @@
+img{ 
+    height: 53em;
+    width:100%!important;
+    justify-content: center; 
+}
+.container69{ 
+    width:100%; 
+}
+.carousellinks{
+    color:white; 
+    text-decoration:none;
+}
+.carousellink2{
+    color:grey; 
+    text-decoration:none;
+}
+@media (max-height: 800px){ 
+    img { 
+        height:31rem!important; 
+    }
+}
+.carousellinks:hover{ 
+    transition: color 0.1s ease; 
+    color: #DF007C; 
+}
+.carousellink2:hover{ 
+    transition: color 0.1s ease; 
+    color: grey; 
+}
